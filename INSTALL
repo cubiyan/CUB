@@ -1,9 +1,0 @@
-Building CUBIYAN
-
-See doc/readme-qt.rst for instructions on building CUBIYAN-Qt,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of CUBIYAN.
-
-See doc/build-*.txt for instructions on building cubiyand,
-the intended-for-services, no-graphical-interface, reference
-implementation of CUBIYAN.
