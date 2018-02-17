@@ -1,7 +1,7 @@
 CUBIYAN integration/staging tree
 ================================
 
-http://www.cubiyan.org
+http://www.cubiyan.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
@@ -10,7 +10,7 @@ What is CUBIYAN?
 ----------------
 
 CUBIYAN is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
+ - 6 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
 
