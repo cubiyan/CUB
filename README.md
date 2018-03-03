@@ -3,7 +3,7 @@ Cubiyan integration/staging tree
 
 http://www.cubiyan.com
 
-Copyright (c) 2017 Cubiyan Developers
+Copyright (c) 2018 Cubiyan Developers
 
 What is Cubiyan?
 ----------------
