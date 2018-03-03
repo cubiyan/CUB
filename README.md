@@ -1,7 +1,7 @@
 Cubiyan integration/staging tree
 ================================
 
-http://www.cubiyan.com
+https://www.cubiyan.com
 
 Copyright (c) 2018 Cubiyan Developers
 
@@ -15,7 +15,7 @@ out collectively by the network. Cubiyan is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Cubiyan client software, see http://www.cubiyan.com.
+the Cubiyan client software, see https://www.cubiyan.com.
 
 License
 -------
